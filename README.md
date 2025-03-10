@@ -34,17 +34,18 @@ I have worked on **team projects**, gaining hands-on experience in **Agile and S
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehediNabil24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediNabil24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehediNabil24&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehediNabil24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediNabil24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+ 
   <img src="https://nirzak-streak-stats.vercel.app/?user=mehediNabil24&theme=dark&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediNabil24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+ 
 </p>
 
 ---
