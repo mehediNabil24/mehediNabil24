@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="480" src="https://i.postimg.cc/9fxGBDXh/Blue-Minimalist-Personal-Branding-Youtube-Banner-1.png" />
+  <img height="200" width="full" src="https://i.postimg.cc/9fxGBDXh/Blue-Minimalist-Personal-Branding-Youtube-Banner-1.png" />
 </div>
 
 <h1 align="center">👋 Hello there! I’m Mehedi Hasan Nabil</h1>
