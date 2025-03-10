@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">👋 Hello there! I’m Mehedi Hasan Nabil</h1>
+<h1 align="center">👋 Hello there! I’m Mehedi Hasan Nabil</h1>
 
 ###
-
-<p align="left">🚀 About Me
+<h2 align="left">🚀 About Me</h2>
+<p align="left">
 
 I’m a Software Engineer passionate about building visually appealing and user-friendly web applications. While I specialize in frontend development, I have also developed several full-stack projects using React, Node.js, and MongoDB, which helped me kickstart my journey as a full-stack developer.
 
