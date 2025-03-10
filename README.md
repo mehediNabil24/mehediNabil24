@@ -4,11 +4,15 @@
 
 ###
 
-<h1 align="left">Hello there👋 I am Mehedi Hasan Nabil</h1>
+<h1 align="left">👋 Hello there! I’m Mehedi Hasan Nabil</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">🚀 About Me
+
+I’m a Software Engineer passionate about building visually appealing and user-friendly web applications. While I specialize in frontend development, I have also developed several full-stack projects using React, Node.js, and MongoDB, which helped me kickstart my journey as a full-stack developer.
+
+I have worked on team projects, gaining hands-on experience in Agile and Scrum methodologies. This has strengthened my collaboration, task management, and problem-solving skills in real-world development.</p>
 
 
 ###
@@ -39,26 +43,4 @@
 
 ###
 
-<h2 align="left">I code with</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
