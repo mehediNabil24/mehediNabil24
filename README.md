@@ -6,7 +6,8 @@
 
 ---
 
-## 🚀 About Me
+## 
+<h2 align="center">🚀 About Me</h2>
 
 I’m a **Software Engineer** passionate about building **visually appealing** and **user-friendly** web applications. While my expertise lies in **frontend development**, I have also developed several **full-stack projects** using **React, Node.js, and MongoDB**, which helped me kickstart my journey as a **full-stack developer**.
 
