@@ -7,10 +7,12 @@
 ---
 
 <h2 align="center">📞 Connect with Me</h2>
-<p align="center">
+<p align="left">
+ 
   <a href="mailto:mehedinabil13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+   <p> mehedinabil13@gmail.com</p>
   
 </p>
 
