@@ -6,7 +6,16 @@
 
 ---
 
-## 
+<h2 align="center">📞 Connect with Me</h2>
+<p align="center">
+  <a href="mailto:mehedinabil13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  
+</p>
+
+---
+
 <h2 align="center">🚀 About Me</h2>
 
 I’m a **Software Engineer** passionate about building **visually appealing** and **user-friendly** web applications. While my expertise lies in **frontend development**, I have also developed several **full-stack projects** using **React, Node.js, and MongoDB**, which helped me kickstart my journey as a **full-stack developer**.
@@ -14,6 +23,7 @@ I’m a **Software Engineer** passionate about building **visually appealing** a
 I have worked on **team projects**, gaining hands-on experience in **Agile and Scrum methodologies**. This has strengthened my **collaboration, task management, and problem-solving** skills in real-world development.
 
 ---
+
 
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
