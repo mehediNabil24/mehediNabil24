@@ -6,19 +6,7 @@
 
 ---
 
-<h2 align="center">📞 Connect with Me</h2>
-<p align="left">
- 
-  <a href="mailto:mehedinabil13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-   <p> mehedinabil13@gmail.com</p>
-  
-</p>
-
----
-
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
 I’m a **Software Engineer** passionate about building **visually appealing** and **user-friendly** web applications. While my expertise lies in **frontend development**, I have also developed several **full-stack projects** using **React, Node.js, and MongoDB**, which helped me kickstart my journey as a **full-stack developer**.
 
@@ -26,9 +14,18 @@ I have worked on **team projects**, gaining hands-on experience in **Agile and S
 
 ---
 
+## 📞 Connect with Me
+<p align="left">
+  <a href="mailto:mehedinabil13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <p>Email: mehedinabil13@gmail.com</p>
+</p>
 
-<h2 align="center">💻 Tech Stack</h2>
-<p align="center">
+---
+
+## 💻 Tech Stack
+<p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -46,36 +43,25 @@ I have worked on **team projects**, gaining hands-on experience in **Agile and S
 
 ---
 
-
-
-<h2 align="center">📊 GitHub Stats</h2>
-
+## 📊 GitHub Stats
 <p align="center">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehediNabil24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediNabil24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<div align="center">
- 
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=mehediNabil24&theme=dark&hide_border=false"/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mehediNabil24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediNabil24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
   </div>
- 
+  <div align="center">
+    <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=mehediNabil24&theme=dark&hide_border=false"/>
+  </div>
 </p>
 
 ---
 
-<h2 align="center">Social</h2>
-<div align="center">
+## 🌍 Social Media
+<p align="left">
   <a href="https://www.linkedin.com/in/mehedi-hasan-nabil-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/MehediHasanNab" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   </a>
-</div>
-
-###
-
-
-
-
+</p>
