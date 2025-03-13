@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" width="1024" style="object-fit: cover;" src="https://i.postimg.cc/9fxGBDXh/Blue-Minimalist-Personal-Branding-Youtube-Banner-1.png" />
+  <img height="350" width="1024" style="object-fit: cover;" src="https://i.postimg.cc/DydNDsZk/Blue-Minimalist-Personal-Branding-Youtube-Banner-1-min.png" />
 </div>
 
 
